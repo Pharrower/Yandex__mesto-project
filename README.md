@@ -1,5 +1,7 @@
 # Проект 4: Место
 
+<img src="./images/git-pages.jpg">
+
 ### Что требовалось
 
 **Работа модальных окон**
@@ -17,4 +19,4 @@
 
 ## Ссылка на проект
 
-
+https://pharrower.github.io/Yandex__mesto-project/
